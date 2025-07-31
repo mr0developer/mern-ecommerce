@@ -4,6 +4,7 @@
   "prettier.arrowParens": "avoid",
   "prettier.jsxSingleQuote": true,
   "prettier.trailingComma": "none",
+  "javascript.preferences.quoteStyle": "single",
   "jumpToAliasFile.alias": {
     "app": "client/app"
   }
